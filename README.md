@@ -11,7 +11,7 @@
 
 ## GitLocalize
 
-Проект на GitLocalize: https://gitlocalize.com/ (ещё не создан)
+Проект на GitLocalize: https://gitlocalize.com/repo/4485
 
 ## А как же перевод от rust-lang-ru?
 
