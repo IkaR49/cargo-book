@@ -21,7 +21,7 @@
 В то время, как [оригинальная документация](https://doc.rust-lang.org/cargo) ушла далеко вперёд
 и выглядит куда менее [вырвиглазно](https://rurust.github.io/cargo-docs-ru).
 
-Тем не менее я оринетируюсь на [перевод rustbook'а](https://github.com/rust-lang-ru/book) именно этих ребят.
+Тем не менее, я ориентируюсь на [перевод rustbook'а](https://github.com/rust-lang-ru/book) именно этих ребят.
 
 ## Немного нюансов
 
