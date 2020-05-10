@@ -1,5 +1,7 @@
 # Пакетный менеджер Cargo (The Cargo Book)
 
+[![gitlocalized ](https://gitlocalize.com/repo/4485/ru/badge.svg)](https://gitlocalize.com/repo/4485/ru?utm_source=badge)
+
 В данном репозитории содержится перевод книги [The Cargo Book](https://github.com/rust-lang/cargo/src/doc).
 
 ## Зачем ещё один репозиторий?
